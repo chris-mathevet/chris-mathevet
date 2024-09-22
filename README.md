@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MATHEVET Chris (Slyjack)</h1>
 <h3 align="center">Computer science student at Orléans's IUT (France)</h3>
+<h4>Independent game developer</h4>
 
 - 🔭 I’m currently working on **different video-games**
 
