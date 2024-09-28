@@ -5,7 +5,7 @@ Independent game developer.
   
 🔭 I’m currently working on different video-games  
 🌱 I’m currently learning JS<  
-📫 How to reach me : chris.mathevet45@gmail.com
+📫 How to reach me : mathevet.chris@gmail.com
 
 
 ## 🌐 Socials:
