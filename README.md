@@ -7,7 +7,7 @@ Independent game developer.
 🌱 I’m currently learning Godot<  
 📫 How to reach me : mathevet.chris@gmail.com
 Portfolio :  
-portfolio.chrismathevet.com
+https://portfolio.chrismathevet.com
 
 
 ## 🌐 Socials:
