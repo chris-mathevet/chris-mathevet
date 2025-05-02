@@ -4,8 +4,10 @@ Computer science student at Orléans's IUT (France).
 Independent game developer. 
   
 🔭 I’m currently working on different video-games  
-🌱 I’m currently learning JS<  
+🌱 I’m currently learning Godot<  
 📫 How to reach me : mathevet.chris@gmail.com
+Portfolio : 
+portfolio.chrismathevet.com
 
 
 ## 🌐 Socials:
