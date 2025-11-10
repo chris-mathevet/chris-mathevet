@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi 👋, I'm MATHEVET Chris (Slyjack).  
-Computer science student at Orléans's IUT (France).  
+Computer science student at École de Technologie Supérieure (Montréal, Canada).  
 Independent game developer. 
   
 🔭 I’m currently working on different video-games  
-🌱 I’m currently learning Godot<  
+🌱 I’m currently learning C++ and Unreal Engine  
 📫 How to reach me : mathevet.chris@gmail.com  
 Portfolio :  
 https://portfolio.chrismathevet.com
